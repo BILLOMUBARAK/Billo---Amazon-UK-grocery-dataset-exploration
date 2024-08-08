@@ -1,0 +1,37 @@
+
+Aperçu :
+Ce jeu de données fournit une vue d'ensemble complète de divers produits d'épicerie disponibles sur Amazon. Il capture des statistiques vitales telles que les chiffres de vente, le chiffre d'affaires, les évaluations et d'autres mesures essentielles. Ces données ont été collectées à l'aide de l'outil Helium10.
+
+Principales caractéristiques :
+Détails du produit : Une description du produit d'épicerie.
+ASIN : Numéro d'identification standard d'Amazon.
+Marque : Marque du produit.
+Prix : Prix du produit.
+Ventes : Nombre d'unités vendues.
+Chiffre d'affaires : Revenu total généré par le produit.
+BSR : Meilleur classement vendeur sur Amazon.
+Frais FBA : Frais de traitement par Amazon.
+Vendeurs actifs # : Nombre de vendeurs actifs pour le produit.
+Évaluations : Note moyenne des clients.
+Nombre de commentaires : Nombre de commentaires clients.
+Images : Nombre d'images de produit disponibles.
+Vélocité d'examen : Le nombre de critiques ajoutées dans une période de temps spécifiée.
+Boîte d'achat : Le vendeur qui possède actuellement la "Boîte d'achat" pour le produit.
+Catégorie : La catégorie du produit sur Amazon (par exemple, Alimentation, Boissons).
+Taille : Classification de taille pour le produit.
+Livraison : Méthode de livraison.
+Dimensions : Dimensions du produit (longueur x largeur x hauteur).
+Poids : Poids du produit.
+Date de création : La date à laquelle le produit a été ajouté à Amazon.
+
+Utilisation :
+Ce jeu de données peut être utilisé à diverses fins, notamment :
+
+Analyse du marché pour les produits d'épicerie sur Amazon.
+Comparaison de marques basée sur les ventes, les avis et les évaluations.
+Modélisation prédictive des ventes ou du chiffre d'affaires.
+Analyse de la relation entre le prix, les ventes et les avis.
+Compréhension de l'importance des images de produit dans les ventes.
+
+Remerciements :
+Les données ont été collectées à l'aide de l'outil Helium10.
